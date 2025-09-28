@@ -17,3 +17,10 @@ body {
     border-radius: 5px;
     padding: 40px;
 }
+
+.convert-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
