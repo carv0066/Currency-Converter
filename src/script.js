@@ -1,7 +1,8 @@
 const convertButton = document.querySelector(".convert");
+//fetch from the api
 
 convertButton.addEventListener("click", () => {
-    console.log("convert Button");
+    console.log("convert Button has been clickedS");
 })
 
 
