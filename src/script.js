@@ -10,4 +10,4 @@ convertButton.addEventListener("click", () => {
 //The input text value should first only be nummbers
 //one list item should connect to one currency
 //second list item should be the currency it wants to be converted into
-//It updated when convert button gets clicked
+//It updated when convert button gets clicked!!
