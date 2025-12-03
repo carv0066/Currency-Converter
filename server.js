@@ -33,10 +33,10 @@ app.listen(port, () => {
 });
 
 
-//Checking status on the amount of monthly uses i have left
-// client.status().then(response => {
-//     console.log("status", response);
-// });
+// Checking status on the amount of monthly uses i have left
+client.status().then(response => {
+    console.log("status", response);
+});
 
 
 // in the select currency section I need to make it available to be chosen in the front end
